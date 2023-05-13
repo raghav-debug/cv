@@ -1,0 +1,32 @@
+hr {
+border-style: none;
+border-top-style:dotted ;
+border-width: 5px;
+width: 5px;
+border-color:#00A19B;
+}
+h1 {
+    color:#00A19B;
+}
+h3 {
+    color:#00A19B;
+} 
+.para
+{
+color:#00A19B;
+}
+.div
+{
+    padding: 20px;
+    background-color: black;
+}
+.divi
+{
+    padding: 20px;
+    background-color: #C8CCCE;
+}
+.divid
+{
+    padding: 20px;
+    background-color: #565F64;
+}
