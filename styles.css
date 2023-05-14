@@ -19,6 +19,7 @@ color:#00A19B;
 {
     padding: 20px;
     background-color: black;
+    text-align: center;
 }
 .divi
 {
@@ -29,4 +30,13 @@ color:#00A19B;
 {
     padding: 20px;
     background-color: #565F64;
+}
+.img
+{
+    position: absolute;
+    left: 50px;
+}
+.linkedin
+{
+    color: #00A19B;
 }
